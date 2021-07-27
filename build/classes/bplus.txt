@@ -1,0 +1,24 @@
+1|Rakshitha|560|Dermatology|9898976767
+2|Reetu|660|Pathology|989787444
+3|Poorvi|560|Psychiatry|675757551
+4|Lakshmi|2000|Surgery|11112334
+5|Charan|3000|Urology|13336543
+6|Madhan|1234|Surgery|333367899
+7|Rishab|3456|Urology|543678975
+8|Raghu|30000|Pathology|989787444
+9|Harish|5605|Anesthesiology|6757575511
+10|Vernon Merrill|5640|Dermatology|9898976767
+11|Lesley Reynolds|6560|radiology|989787444
+12|Geetha|10000|Surgery|12345678
+13|Lily-Anne Rojas|5360|radiology|6757575511
+14|Riccardo|10000|Neurology|12345678
+15|Vijay|5160|Nuclear medicine|9898976767
+16|Lesley Reynolds|3560|Nuclear medicine|6757575511
+17|Avila|10000|Psychiatry|12345678
+18|Lily-Anne|5560|Anesthesiology|9898976767
+19|Sydney Avila|7660|Medical genetics|989787444
+20|Riccardo Atkins|9560|Dermatology|6757575511
+21| Ajay|10000|Neurology|12345678
+22| Ana|33660|Anesthesiology|98978744422|
+23|Sathvik|Urology|20000|91413536
+24|a|b|1000|123456
